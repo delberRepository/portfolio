@@ -8,6 +8,20 @@
 
 body{
   background-color: rgb(214, 214, 214);
+  font-family: "Rubik Doodle Shadow", system-ui;
+}
+header{
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(130, 130, 130);
+  
+}
+.colorsitoLetras{
+  color: rgb(113, 189, 254);
+}
+.colorsitoLetras:hover{
+  color: rgb(165, 209, 248);
 }
 
 .logo {
@@ -21,6 +35,14 @@ body{
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.project-item {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-item:hover {
+  transform: translateY(-10px); /* Eleva el elemento */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Añade una sombra */
 }
 
 @keyframes logo-spin {
