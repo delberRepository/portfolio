@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/delberRepository/portfolio",
+  "homepage": "https://delberrepository.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
