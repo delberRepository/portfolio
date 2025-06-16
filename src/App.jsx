@@ -45,14 +45,22 @@ export default function Portfolio() {
           </div>  
           </li>
           <li className="mb-3 project-item">
+          <i class="fa fa-gift"></i><strong> Tienda  online</strong> - Proyecto desarrollada con WooComerce y WordPress <br></br>
+          para tienda virtual ficticia. 
+            <div className="mt-2"> 
+            <a href="https://github.com/delberRepository/tienda" className="colorsitoLetras"> Ver en GitHub</a>
+           
+          </div>  
+          </li>
+          <li className="mb-3 project-item">
           <i class="fas fa-globe"></i> <strong>Página web</strong> - pagina creada para estudio profesional de grabación. 
             <div className="mt-2"> 
             <a href="https://vindalooestudios.com/" className="colorsitoLetras"> Ver web</a>
            </div> 
           </li>
-        </ul>
+        </ul>  
       </section>
-
+ 
       <section className="container-fluid bg-light text-dark p-5 rounded-4 shadow-lg">
   <h2 className="h3 fw-bold text-secondary mb-3">Contacto</h2>
   <p>
