@@ -49,7 +49,7 @@ export default function Portfolio() {
             <div className="mt-2"> 
             <a href="https://github.com/delberRepository/retroMovies" className="colorsitoLetras"> Ver en GitHub</a>
             <span className="mx-2">|</span>
-            <a href="https://appmoviesv3.onrender.com/" className="colorsitoLetras"> Ver Web</a>
+            <a href="https://appmoviesv3.onrender.com/" className="colorsitoLetras"> Ver App</a>
           </div>  
           </li>
           <li className="mb-3 project-item">
